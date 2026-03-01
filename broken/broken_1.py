@@ -9,7 +9,7 @@
 #       The actual mistake is often on that line or the line immediately above it.
 
 
-def greet(name)
+def greet(name):
     message = f"Hello, {name}! Welcome to the debugging loop."
     return message
 
